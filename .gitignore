@@ -1,0 +1,6 @@
+s
+.DS_Store
+*.json
+*.pyc
+build/bdist.macosx-10.15-x86_64/wininst/PURELIB/CardinalNumeral-0.1dev-py3.7.egg-info
+*.exe
